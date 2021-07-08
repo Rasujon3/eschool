@@ -1,0 +1,59 @@
+.logo-img {
+    vertical-align: middle;
+    border-style: none;
+    height: 50px;
+    width: 200px;
+}
+.bg-ash{
+    background-color: rgb(204, 253, 131) !important;
+}
+.carousel-item{
+    padding: 20px 40px;
+}
+.get-started-button{
+    background-image: linear-gradient(to bottom,#5eff58,0%,#2fff13 100%);
+    color: white;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+.information{
+    margin-bottom: 5%;
+    margin-top: 5%;
+    border-radius: 10px;
+}
+.information img{
+  height: 80px;
+ 
+  padding-top: 10%;
+}
+.bg-white{
+    background-color: rgb(160, 244, 255) !important;
+}
+.calender-img{
+    height: 15px;
+    margin: 2px;
+}
+.online-courses{
+    margin-bottom: 5%;
+}
+.testi-img{
+    height: 200px;
+}
+.testi{
+    margin-left: 100px !important;
+    margin-right: 100px;
+}
+.testimonial{
+    padding-bottom: 5%;
+}
+.bg-black{
+    background-color: black;
+    padding-left: 2%;
+    padding-right: 2%;
+    padding-top: 2%;
+
+    color: white;
+    padding-bottom: 5%;
+}
